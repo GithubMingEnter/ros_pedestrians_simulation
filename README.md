@@ -188,6 +188,11 @@ We provide a script to quickly start the world
 cd ./pedestrian_simulation/scripts
 ./main.sh
 ```
+if package in own workspace 
+```sh
+roscd ped_simulation/scripts/
+./main_ws.sh
+``` 
 
 # <span id="4">More
 
